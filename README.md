@@ -29,6 +29,16 @@ As a quick learner, I’m looking for opportunities to grow as a Full Stack Deve
 
 <br>
 
+### 🌐 Connect with Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/jonayedahmed/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@JonayedASaif" target="_blank"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://www.instagram.com/jonayed_a_saif/" target="_blank"><img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://jonayedahmed.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+</p>
+
+---
+
 ### 🔨 Languages and Tools:
 
 <a href="https://www.cplusplus.com/" target="_blank">
@@ -77,3 +87,9 @@ As a quick learner, I’m looking for opportunities to grow as a Full Stack Deve
 <a href="https://github.com/jonayed-ahmed-cse/python-whatsapp-message-automation" target="_blank"> <img alt="readmeicons" src="https://jonayedahmed.netlify.app/assets/images/web-dev-english.webp" height="68" align="left"> </a>
 <a href="#" target="_blank"> <img alt="passwordkeeper" src="https://jonayedahmed.netlify.app/assets/images/blood.png" height="68" align="left"> </a>
 <a href="https://github.com/jonayed-ahmed-cse/python-fake-news-detection" target="_blank"> <img alt="oxytracker" src="https://jonayedahmed.netlify.app/assets/images/fakeNews.png" height="68" align="left"> </a>
+
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jonayed-ahmed-cse&label=Profile+Views&color=blue&style=flat-square" alt="Profile View Count" />
+</p>
