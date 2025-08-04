@@ -1,3 +1,9 @@
+<!-- Animated Typing Intro -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=900&lines=Hey+%F0%9F%91%8B%2C+Welcome+to+my+profile!;Hi+👉%2C+This+is+Jonayed+Ahmed!;Full+Stack+Developer+%7C+Content+Creator+%7C">
+</p>
+
+
 ## Hey 👋, I'm Jonayed Ahmed!
 <a href='https://www.linkedin.com/in/jonayedahmed/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a><br/>
 
@@ -7,8 +13,8 @@ I am a Computer Science graduate 💻 from Uttara University with basic skills i
 As a quick learner, I’m looking for opportunities to grow as a Full Stack Developer 🌐 or Software Engineer 🤖 by contributing to real-world 📱 projects and building practical solutions.
 
 
+<img align="right" alt="Coding GIF" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
   
 ### 🧐 More About Me:
 
