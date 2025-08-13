@@ -84,7 +84,7 @@ As a quick learner, I’m looking for opportunities to grow as a Full Stack Deve
 ### 🛠️ My Projects
 <a href="https://reacteshop.vercel.app/" target="_blank"> <img alt="React-project" src="https://jonayedahmed.netlify.app/assets/images/React-Based%20E-Commerce%20Frontend.png" height="68" align="left"> </a>
 <a href="https://jonayed-ahmed-cse.github.io/vanila-js-weatherapp/" target="_blank"> <img alt="weather-app" src="https://jonayedahmed.netlify.app/assets/images/weatherapp.png"  height="68" align="left"> </a>
-<a href="https://github.com/jonayed-ahmed-cse/python-whatsapp-message-automation" target="_blank"> <img alt="readmeicons" src="https://jonayedahmed.netlify.app/assets/images/web-dev-english.webp" height="68" align="left"> </a>
+<a href="https://github.com/jonayed-ahmed-cse/python-whatsapp-message-automation" target="_blank"> <img alt="readmeicons" src="https://jonayedahmed.netlify.app/assets/images/whatsappmessageautomationframe.png" height="68" align="left"> </a>
 <a href="#" target="_blank"> <img alt="passwordkeeper" src="https://jonayedahmed.netlify.app/assets/images/blood.png" height="68" align="left"> </a>
 <a href="https://github.com/jonayed-ahmed-cse/python-fake-news-detection" target="_blank"> <img alt="oxytracker" src="https://jonayedahmed.netlify.app/assets/images/fakeNews.png" height="68" align="left"> </a>
 
